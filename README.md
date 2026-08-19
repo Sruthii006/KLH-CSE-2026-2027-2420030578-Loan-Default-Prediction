@@ -1,53 +1,59 @@
-AI-Driven Loan Default Prediction Using Banking AnalyticsTe
+# AI-Driven Loan Default Prediction Using Banking Analytics
 
-am MembersName 
+## Team Members
 
-IDS. Tejasree 2420030441B. Sruth
-i 2420030578B. Bhavyasaisri 2420
-030594SupervisorDr K SwapnikaAbs
-tractThis project, titled "AI-Dr
-iven Loan Default Prediction Usi
+| Name            | ID         |
+| --------------- | ---------- |
+| S. Tejasree     | 2420030441 |
+| B. Sruthi       | 2420030578 |
+| B. Bhavyasaisri | 2420030594 |
 
-ng Banking An
+## Supervisor
 
-alytics", aims to
+**Dr K Swapnika**
 
- predict th
+## Abstract
 
-e probability of loan default using machine learning and historical banking and credit data. The project analyses borrower characteristics and financial information to identify patterns associated with loan default. Machine learning models are used to support accurate and data-driven loan risk assessment.Technologies UsedPythonPandasNumPyScikit-learnXGBoostJupyter NotebookProject Structuresrc/ - Source code
+This project, titled **"AI-Driven Loan Default Prediction Using Banking Analytics"**, aims to predict the probability of loan default using machine learning and historical banking and credit data. The project analyses borrower characteristics and financial information to identify patterns associated with loan default. Machine learning models are used to support accurate and data-driven loan risk assessment.
 
-docs/ - Project docu
+## Technologies Used
 
-mentatio
-ndata/ -
- Datase
-t information 
-or docume
-nted data sourcere
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* XGBoost
+* Jupyter Notebook
 
-sults/ - Model resul
+## Project Structure
 
-ts and visualizationsr
-eports/ - Project reportsREADME.m
-d - Project information and instructions.gitignore - File
-s and folders excluded from version controlSetu
-p InstructionsInstall Python.C
-lone this repository.Install the required Python lib
-raries.Follow the dataset instructions provided in the data/ fol
+* `src/` - Source code
+* `docs/` - Project documentation
+* `data/` - Dataset information or documented data source
+* `results/` - Model results and visualizations
+* `reports/` - Project reports
+* `README.md` - Project information and instructions
+* `.gitignore` - Files and folders excluded from version control
 
-der.Navigate to the s
+## Setup Instructions
 
-rc/ folder to acce
-ss the source code.Execut
-ion InstructionsPerform data preprocessin
-g.Perform exploratory data analysis.Perform feature engineering.Tr
-ain the machine learning models.Evaluate the models using a
+1. Install Python.
+2. Clone this repository.
+3. Install the required Python libraries.
+4. Follow the dataset instructions provided in the `data/` folder.
+5. Navigate to the `src/` folder to access the source code.
 
-ppropriate performance me
+## Execution Instructions
 
-trics.Store the generated resu
-lts and visualizations in the results
-/ folder.Current Phase StatusCu
-rrent Phase: Review 1Initial project 
-documentation, project planning, and Review 1 deliverables ha
-ve been completed.
+1. Perform data preprocessing.
+2. Perform exploratory data analysis.
+3. Perform feature engineering.
+4. Train the machine learning models.
+5. Evaluate the models using appropriate performance metrics.
+6. Store the generated results and visualizations in the `results/` folder.
+
+## Current Phase Status
+
+**Current Phase: Review 1**
+
+Initial project documentation, project planning, and Review 1 deliverables have been completed.
